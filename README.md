@@ -1,4 +1,4 @@
 
-## Схема сайта
+## Mind_Map of Polteq Web Shop:
 
-[Посмотреть схему сайта](https://vnlashin-tester.github.io/Mind_Map/markmap.html)
+[Link](https://vnlashin-tester.github.io/Mind_Map/markmap.html)
